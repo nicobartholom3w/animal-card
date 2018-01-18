@@ -1,0 +1,45 @@
+.header {
+	padding-left: 5px;
+	padding-bottom: 10px;
+}
+
+#holland_lop_kits {
+	width: 300px;
+	padding-bottom: 10px;	
+}
+
+
+span {
+	font-weight: bold;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.border_main {
+	border: solid;
+	width: 300px;
+	padding: 10px;
+	border-width: 1px;
+	border-color:lightgrey;
+	box-shadow: 5px 5px #EDEDED;
+	margin: 0px auto;
+}
+
+.border_text {
+	border: solid;
+	padding: 10px;
+	border-width: 1px;
+	border-color: lightgrey;
+	margin:5px
+	width: 300px;
+
+}
+
+ul {
+	list-style: none;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
